@@ -1,6 +1,7 @@
 Ubuntu Kernel Source (http://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git) with BFS and BFQ from Alfred Chen's branch (https://github.com/cchalpha/linux-gc)
 
 Config changes from Ubuntu stock:
+
     - HZ_300 (Arch Linux)
     
     - Desktop Preemption (Arch Linux)
